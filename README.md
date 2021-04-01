@@ -1,4 +1,4 @@
-Stellar Stories
+Payshares Stories
 ===============
 Stellar Stories is a collection of graphic explainers used to help people learn
 more about Stellar and what it can do.
